@@ -1,7 +1,7 @@
-Vagrant precise32 (apache-Mysql-Php)
+Vagrant precise32 (Apache-MySql-Php)
 ====================================
 
-Vagrant precise32 (Ubuntu) with Apache, Mysql and Php
+Vagrant precise32 (Ubuntu) with Apache, MySql and Php
 
 <b>Vagrantfile</b>
 ```shell 
